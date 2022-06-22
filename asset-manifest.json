@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zi-mi-n/move_app_0601/static/css/main.480ac580.css",
+    "main.js": "/zi-mi-n/move_app_0601/static/js/main.ca639b0a.js",
+    "index.html": "/zi-mi-n/move_app_0601/index.html",
+    "main.480ac580.css.map": "/zi-mi-n/move_app_0601/static/css/main.480ac580.css.map",
+    "main.ca639b0a.js.map": "/zi-mi-n/move_app_0601/static/js/main.ca639b0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.480ac580.css",
+    "static/js/main.ca639b0a.js"
+  ]
+}
