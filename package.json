@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
+    "gh-pages": "^4.0.0",
     "prop-types": "^15.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
@@ -17,8 +18,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,6 +39,5 @@
       "last 1 safari version"
     ]
   },
-
-  "homepage": "https://github.com/zi-mi-n/move_app_0601"
+  "homepage": "https://github.com/zi-mi-n/move_app_0601/"
 }
